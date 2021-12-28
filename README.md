@@ -4,8 +4,8 @@
 #### I'm Devon Li, a software engineer from San Jose, CA
 #### I always feel like I'm a runner under the stars. 
 #### I am surrounded by darkness, and those countless unknowns and needs are like the stars in the sky. 
-#### They emit a light that illuminates my way forward and witness those paths that I have run along with my feet on the ground.
-#### I get the encouraging strength from them to keep running.
+#### They emit light that illuminates my way forward and witness those paths that I have run along with my feet on the ground.
+#### I get the strength from them to keep running.
 
 
 
