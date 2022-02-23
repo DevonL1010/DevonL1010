@@ -5,11 +5,11 @@
 #### I always feel like I'm a runner under the stars. 
 #### I am surrounded by darkness, and those countless unknowns and needs are like the stars in the sky. 
 #### They emit light that illuminates my way forward and witness those paths that I have run along with my feet on the ground.
-#### I get the strength from them to keep running.
+#### I've been getting the strength from them to keep running.
 
 
 
-### Connect with me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devon-li/)
+###[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devon-li/)
 
 ## My Favorite Tech
 
