@@ -48,6 +48,7 @@
 #### AI Tool / AI Infrastructure
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-0F62FE.svg?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
