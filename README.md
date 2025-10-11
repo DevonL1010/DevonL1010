@@ -46,7 +46,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 #### AI Tool / AI Infrastructure
-### 🧠 AI Tools & Infrastructure
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
